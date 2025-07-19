@@ -12,10 +12,6 @@ You can also search for any video on the website and search results are displaye
 
 For the API, [RapidAPI](https://rapidapi.com/hub) was used.
 
-## Links
-
-Live Application: [https://im-youtube.netlify.app](https://im-youtube.netlify.app)
-
 ## Packages and Technologies used:
 
 [React](https://react.dev/learn)
